@@ -42,4 +42,18 @@ Model Training:
 ## Algorithm: Random Forest Classifier.  
 Achieved an accuracy of 84.5%.  
 
+## Results
 ![image](https://github.com/user-attachments/assets/aa493865-f057-4b87-9fff-6b79e4845a9e)
+
+## Future Improvements
+Address Class Imbalance:  
+Implement SMOTE or oversampling techniques.  
+Use class-weighted models.  
+Hyperparameter Tuning:  
+Optimize parameters like n_estimators, max_depth, and min_samples_split.  
+Experiment with Advanced Models:  
+Test XGBoost, LightGBM, or CatBoost.  
+Enhanced Feature Engineering:  
+Use clustering on spatial data for better geographic insights.  
+Evaluation Metrics:  
+Evaluate with ROC-AUC for imbalanced data performance.  
